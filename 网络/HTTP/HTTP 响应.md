@@ -1,5 +1,3 @@
-[![返回目录](https://i.postimg.cc/WzXsh0MX/image.png)](https://parg.co/UdT)
-
 # HTTP Response | HTTP 响应详解
 
 ![](http://upload-images.jianshu.io/upload_images/1724103-e8ebcab6c80b9044.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

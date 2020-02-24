@@ -1,5 +1,3 @@
-[![返回目录](https://i.postimg.cc/WzXsh0MX/image.png)](https://parg.co/UdT)
-
 # HTTP Request
 
 HTTP 的请求报文分为三个部分 请求行、请求头和请求体，格式如图: ![](http://upload-images.jianshu.io/upload_images/1724103-c43900117e983241.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 一个典型的请求消息头域，如下所示：
